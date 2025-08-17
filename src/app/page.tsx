@@ -127,7 +127,7 @@ export default function Home() {
               fontSize: '1.02rem'
             }}
           >
-            Upload Meeting Transcript
+            Upload Meeting Transcript(text file only)
           </label>
           <input
             ref={fileInputRef}

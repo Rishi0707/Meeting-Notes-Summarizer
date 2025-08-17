@@ -1,6 +1,8 @@
 # AI Meeting Notes Summarizer
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Website:-https://meeting-notes-summarizer-wine.vercel.app/
+
 
 ## Getting Started
 
