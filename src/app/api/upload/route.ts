@@ -19,6 +19,6 @@ export async function POST(req: NextRequest) {
     return NextResponse.json({ text });
   } catch (err) {
     console.error('UPLOAD ERROR:', err);
-    return NextResponse.json({ error: err?.message || 'Failed to extract text' }, { status: 500 });
+    return NextResponse.json({ error:'Failed to extract text' }, { status: 500 });
   }
 }

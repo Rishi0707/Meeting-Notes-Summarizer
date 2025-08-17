@@ -44,6 +44,6 @@ console.log('Groq response:', JSON.stringify(result, null, 2));
     return NextResponse.json({ summary });
   } catch (err) {
     console.error('SUMMARIZE ERROR:', err);
-    return NextResponse.json({ error: err?.message || 'AI summary failed' }, { status: 500 });
+    return NextResponse.json({ error: 'AI summary failed' }, { status: 500 });
   }
 }
