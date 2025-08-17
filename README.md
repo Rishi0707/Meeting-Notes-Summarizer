@@ -3,6 +3,14 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 Website:-https://meeting-notes-summarizer-wine.vercel.app/
 
+<img width="1113" height="562" alt="image" src="https://github.com/user-attachments/assets/ef9f926e-d7a1-4740-b994-e33cbc08a0e6" />
+
+<img width="839" height="850" alt="image" src="https://github.com/user-attachments/assets/78c206de-1400-4f8b-bff2-a822c5c2fcf6" />
+
+
+
+
+
 
 ## Getting Started
 
